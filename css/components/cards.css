@@ -1,0 +1,45 @@
+.cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.card-apply img{
+  width: 200px;
+  height: 200px;
+}
+
+.card-apply{
+  width: 300px;
+  box-shadow: 0 0 5px grey;
+  text-align: center;
+  border: 1px solid rgb(93, 95, 93);
+  border-radius: 3px;
+}
+
+
+.card-learn img{
+width: 200px;
+  height: 200px;
+}
+
+.card-learn{
+  width: 300px;
+  box-shadow: 0 0 5px grey;
+  text-align: center;
+  border: 1px solid rgb(93, 95, 93);
+  border-radius: 3px;
+}
+
+.card-build{
+  width: 300px;
+  box-shadow: 0 0 5px grey;
+  text-align: center;
+  border: 1px solid rgb(93, 95, 93);
+  border-radius: 3px;
+}
+
+.card-build img{
+width: 200px;
+  height: 200px;
+}

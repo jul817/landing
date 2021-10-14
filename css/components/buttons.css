@@ -1,0 +1,12 @@
+.btn-primary{
+  border-radius: 20px;
+  background-color: rgb(223, 224, 226);
+  border: 1px solid rgb(49, 49, 80)  ;
+  padding: 15px 25px;
+  font-weight: 900;
+}
+
+.btn-primary:hover{
+  background-color: rgb(49, 49, 80);
+  color: rgb(223, 224, 226);
+}
